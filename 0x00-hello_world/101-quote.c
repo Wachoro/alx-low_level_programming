@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unistd.h>
-#include <sdtlib.h>
+#include <stdlib.h>
 /**
  * Main - A program that prints a string to the standard error
  *
