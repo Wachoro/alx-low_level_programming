@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *  main - A program that uses puts to print intead of printf
- * return: o (shows success of a program)
+ * return: returns 0 shows success of a program
  */
 int main(void)
 {
